@@ -1,5 +1,5 @@
-# APLICATIVO PARA DESCARTE DE RESIDUOS 
- Aplicativo para recolhimento de materiais reciclavéis
+# APLICATIVO PARA DESCARTE DE RESÍDUOS 
+ Aplicativo para recolhimento de materiais recicláveis
 
 async storage para token
 geolocation para localização do usuário
