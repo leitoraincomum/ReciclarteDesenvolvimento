@@ -1,4 +1,4 @@
-# APLICATIVO PARA DESCARTE DE RESÍDUOS 
+# APLICATIVO PARA DESCARTE DE RECICLÁVEIS
  Aplicativo para recolhimento de materiais recicláveis
 
 async storage para token
